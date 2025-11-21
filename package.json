@@ -1,0 +1,14 @@
+{
+  "name": "byte-bot-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dark mode landing page for the ByteBot Discord coding service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
